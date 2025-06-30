@@ -41,7 +41,9 @@ nmv list
 
 ng serve
 
-json-server --watch db.json
+json-server --watch db.json  
+
+npm install -g json-server (Run this command if your get error for above command)
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
