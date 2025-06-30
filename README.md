@@ -43,7 +43,9 @@ ng serve
 
 json-server --watch db.json  
 
-npm install -g json-server (Run this command if your get error for above command)
+ Optional: Install Globally and Add to PATH (If you want json-server to work as a direct command)
+ 
+npm install -g json-server
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
