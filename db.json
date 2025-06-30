@@ -1,0 +1,46 @@
+{
+  "creditcards": [
+    {
+      "id": "10",
+      "name": "Canara Bank Platinum",
+      "bankname": "Canara bank",
+      "description": "Canara bank International bank",
+      "maxCredit": 5000,
+      "interestRate": "15",
+      "active": true,
+      "recommendedCreditScore": "500-600",
+      "anualFee": "11",
+      "termsandconditions": "Terms and conditions for credit card",
+      "createdDate": "2025-06-19T18:30:00.000Z",
+      "updatedDate": "2025-06-20T18:30:00.000Z"
+    },
+    {
+      "id": "8d9e",
+      "name": "Platinum",
+      "bankname": "Canara bank",
+      "description": "srikanth",
+      "maxCredit": "255",
+      "interestRate": 12,
+      "active": true,
+      "recommendedCreditScore": "300-400",
+      "anualFee": "122",
+      "termsandconditions": "Terms and conditions for credit card",
+      "createdDate": "2025-06-25T18:30:00.000Z",
+      "updatedDate": "2025-06-24T18:30:00.000Z"
+    },
+    {
+      "id": "dea2",
+      "name": "Yerra -New Platinum",
+      "bankname": "Yerra",
+      "description": "Dec- Yerra",
+      "maxCredit": 5000,
+      "interestRate": 12,
+      "active": true,
+      "recommendedCreditScore": "300-400",
+      "anualFee": 12,
+      "termsandconditions": "Terms and conditions for credit card",
+      "createdDate": "2025-06-24T18:30:00.000Z",
+      "updatedDate": "2025-06-24T18:30:00.000Z"
+    }
+  ]
+}
