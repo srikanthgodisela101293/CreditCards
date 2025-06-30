@@ -35,7 +35,19 @@ You have to install npm
 
 use below Cmd's after install
 
-node -version
-nmv list
+>>  node -version
+>>  nmv list
 
->>>>>>> 1d4d402401cd6ba9cc03b0c7c709dcba0df35453
+>> ng serve
+>> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+>>  json-server --watch db.json
+>> ng g c PageNotFound
+>> ng g service services/creditcards
+>>  ng g c creditcards/delete --module creditcards/creditcards.module.ts
+>> ng g c creditcards/edit --module creditcards/creditcards.module.ts
+>>  ng g c creditcards/view --module creditcards/creditcards.module.ts
+>> ng g c creditcards/add --module creditcards/creditcards.module.ts
+>> ng g module creditcards --route creditcards --module app.module
+>> ng g interface models/Creditcard
+>> 
+
